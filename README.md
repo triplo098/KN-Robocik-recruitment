@@ -1,2 +1,2 @@
 # KN-Robocik-recruitment
-Applying for Python programmer position
+I'm applying for Python programmer position to expand knowledge, learn something new and to have fun.
